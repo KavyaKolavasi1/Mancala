@@ -7,16 +7,15 @@
 
 ## Table of Contents
 
- 1)  [Overview]
+1)  [Overview](https://github.com/KavyaKolavasi1/Mancala#overview)
 
- 
- 2)  [Player Class]
+2)  [Player Class](https://github.com/KavyaKolavasi1/Mancala#player-class)
 
- 3)  [Mancala Class]
+3)  [Mancala Class](https://github.com/KavyaKolavasi1/Mancala#mancala-class)
 
- 4) [Output]
+4) [Output](https://github.com/KavyaKolavasi1/Mancala#output)
 
- 4) [Reflection]
+4) [Reflection](https://github.com/KavyaKolavasi1/Mancala#reflection)
 
 
 ## Overview
