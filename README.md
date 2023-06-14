@@ -221,4 +221,4 @@ The mancala class will create a new player by calling the player class, check if
       Winner is player 2: Lucy
 ## Reflection
 
-As a child my brother and I would always play mancala year round and would even have family tournaments. This board game holds a special place in my heart. This implementation using python, introduces the concepts of object oriented programming which focuses on using classes and objects to represent data and create larger programs such as this. This program is a text based version of the game with two players.
+As a child my brother and I would always play mancala year round and would even have family tournaments. This board game holds a special place in my heart, thus this implementation using python, introduces the concepts of object oriented programming which focuses on using classes and objects to represent data and create larger programs such as this. This program is a text based version of the game with two players.
